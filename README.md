@@ -45,7 +45,7 @@ A handful of categories hold the bulk of total inventory weight, suggesting Zept
 
 ### **Tech Stack**
 
-PostgreSQL
+PostgreSQL        
 Raw SQL — no Python or BI tools, just queries
 
 ### Rishav Raj
