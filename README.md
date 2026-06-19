@@ -37,7 +37,7 @@ Total inventory weight per category
 
 * A few things I found
 
-Some categories consistently offer 40–50% discounts while others barely cross 10% — the discount strategy is clearly not uniform
+Some categories consistently offer 40-50% discounts while others barely cross 10% - the discount strategy is clearly not uniform
 Several high-MRP products (₹300+) are out of stock, which is a revenue loss hiding in plain sight
 Price per gram varies wildly even within the same category - some products are priced 3-4x higher per gram than similar ones
 A handful of categories hold the bulk of total inventory weight, suggesting Zepto prioritizes stocking certain segments heavily
