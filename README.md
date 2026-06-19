@@ -5,7 +5,7 @@ A SQL-based analysis of Zepto's product inventory data. Zepto is an Indian quick
 I use Zepto pretty regularly and was curious about the pricing patterns — which categories get the most discounts, which high-priced items go out of stock, whether the per-gram pricing actually makes sense across products. Turned that curiosity into a structured SQL project.
 
 ### **Dataset**
-Zepto Inventory Dataset — Kaggle
+Zepto Inventory Dataset - Kaggle
 🔗 https://www.kaggle.com/datasets/palvinder2006/zepto-inventory-dataset/data?select=zepto_v2.csv
 Contains product-level data including category, MRP, discounted price, discount percentage, available quantity, weight, and stock status.
 
@@ -30,7 +30,7 @@ High MRP products (above ₹300) that are currently out of stock
 Estimated revenue per category based on available inventory
 Products with MRP above ₹500 but discount below 10% - low value deals
 Top 5 categories with the highest average discount
-Price per gram for products above 100g — finding the best value by weight
+Price per gram for products above 100g - finding the best value by weight
 Product weight segmentation - Low, Medium, and Bulk
 Total inventory weight per category
 
